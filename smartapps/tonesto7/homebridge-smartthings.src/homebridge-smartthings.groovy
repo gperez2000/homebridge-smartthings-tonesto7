@@ -718,4 +718,3 @@ mappings {
         path("/startDirect/:ip/:port")          { action: [GET: "enableDirectUpdates"] }
     }
 }
-
